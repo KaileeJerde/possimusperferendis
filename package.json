@@ -1,0 +1,34 @@
+{
+  "name": "possimusperferendis",
+  "version": "1.0.0",
+  "description": "GYP file format parser in JS",
+  "main": "index.js",
+  "exports": {
+    "require": "./index.js",
+    "import": "./.esm-wrapper.mjs"
+  },
+  "keywords": [
+    "voluptatem",
+    "minus",
+    "et"
+  ],
+  "author": "ElzaLeuschke",
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    ".esm-wrapper.mjs",
+    "LICENSE",
+    "README"
+  ],
+  "devDependencies": {
+    "gen-esm-wrapper": "^1.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KaileeJerde/possimusperferendis.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KaileeJerde/possimusperferendis.git/issues"
+  }
+}
